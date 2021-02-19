@@ -1,6 +1,6 @@
 // Vous devez assigner la bonne string à la variable password ci dessous
 // Et obtenir le message 'OK' en éxecutant le programme
-let password = 'e'//Mot de passe dont la somme des valeurs ascii des voyelles constituant le mdp est impair
+let password = 'e'//Mot de passe dont la somme des valeurs ascii des voyelles contenue dans le mdp est impair
 
 const crackme10 = (password) => {
   if (
